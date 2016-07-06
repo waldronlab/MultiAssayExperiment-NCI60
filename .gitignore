@@ -1,0 +1,9 @@
+.Rproj.user
+*.Rproj
+.Rhistory
+.RData
+.Ruserdata
+*.txt
+*.[Rr][Dd][Aa]
+rawdata/*
+*.tar.gz
